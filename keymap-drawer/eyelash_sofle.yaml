@@ -281,12 +281,12 @@ layers:
   - W
   - Z
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: _, h: ''''}
   - F
   - O
   - U
   - J
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: ;, s: ':'}
   - {t: '$$mdi:transfer$$', type: trans}
   - N
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
@@ -299,7 +299,7 @@ layers:
   - {t: A, h: '$$mdi:apple-keyboard-option$$'}
   - {t: E, h: '$$mdi:apple-keyboard-control$$'}
   - I
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '?', h: ','}
   - {t: '$$mdi:transfer$$', type: trans}
   - Q
   - X
@@ -309,9 +309,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - K
   - P
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '>', h: .}
+  - {t: '"', h: '-'}
+  - {t: <, h: /}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
