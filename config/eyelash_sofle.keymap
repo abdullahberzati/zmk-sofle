@@ -10,6 +10,13 @@
 #include <dt-bindings/zmk/pointing.h>
 #include <dt-bindings/zmk/rgb.h>
 
+&mt {
+    tapping-term-ms = <200>;
+    quick-tap-ms = <150>;
+    flavor = "tap-preferred";
+    hold-trigger-on-release;
+};
+
 &mmv_input_listener { input-processors = <&zip_xy_scaler 2 1>; };
 
 &msc_input_listener { input-processors = <&zip_scroll_scaler 2 1>; };
@@ -38,14 +45,6 @@
     };
 
     behaviors {
-        mt: mod_tap {
-            compatible = "zmk,behavior-hold-tap";
-            label = "MOD_TAP";
-            tapping-term-ms = <200>;           // tap vs hold threshold (200ms)
-            flavor = "tap-preferred";          // or "hold-preferred"
-            quick-tap-ms = <150>;
-            hold-trigger-on-release;           // common for home row mods
-        };
     };
 
     combos {
