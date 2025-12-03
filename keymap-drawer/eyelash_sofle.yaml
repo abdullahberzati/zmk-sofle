@@ -286,7 +286,7 @@ layers:
   - O
   - U
   - J
-  - COLON SEMI
+  - {t: ;, h: ':', s: ':'}
   - {t: '$$mdi:transfer$$', type: trans}
   - N
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
