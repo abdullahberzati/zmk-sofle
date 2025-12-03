@@ -281,12 +281,12 @@ layers:
   - W
   - Z
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: _, h: ''''}
+  - {t: '''', h: _, s: '"'}
   - F
   - O
   - U
   - J
-  - {t: ;, s: ':'}
+  - COLON SEMI
   - {t: '$$mdi:transfer$$', type: trans}
   - N
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
@@ -309,9 +309,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - K
   - P
-  - {t: '>', h: .}
-  - {t: '"', h: '-'}
-  - {t: <, h: /}
+  - {t: ., h: '>', s: '>'}
+  - {t: '-', h: '"', s: _}
+  - {t: /, h: <, s: '?'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
