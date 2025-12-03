@@ -299,7 +299,7 @@ layers:
   - {t: A, h: '$$mdi:apple-keyboard-option$$'}
   - {t: E, h: '$$mdi:apple-keyboard-control$$'}
   - I
-  - {t: '?', h: ','}
+  - {t: ',', h: '?', s: <}
   - {t: '$$mdi:transfer$$', type: trans}
   - Q
   - X
