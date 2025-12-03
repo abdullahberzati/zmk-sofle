@@ -123,7 +123,7 @@
 &trans  &kp B   &kp L   &kp D   &kp W   &kp Z      &trans  &trans  &kp F   &kp O   &kp U   &kp J   &trans
 &trans  &kp N   &mt LCTRL R   &mt LALT T   &mt LGUI S   &kp G   &trans  &kp Y   &mt RGUI H   &mt RALT A   &mt RCTRL E   &kp I   &trans
 &trans  &kp Q   &kp X   &kp M   &kp C   &kp V     &trans  &kp K   &kp P   &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
 
             display-name = "GRAPHITE";
