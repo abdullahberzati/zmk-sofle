@@ -120,9 +120,9 @@
         layer_4 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp B   &kp L   &kp D   &kp W   &kp Z     &trans  &mt APOS UNDER  &kp F   &kp O   &kp U   &kp J   &kp SEMI
+&trans  &kp B   &kp L   &kp D   &kp W   &kp Z     &trans  &mt UNDER APOS  &kp F   &kp O   &kp U   &kp J   &kp COLON SEMI
 &trans  &kp N   &mt LCTRL R   &mt LALT T   &mt LGUI S   &kp G   &trans  &kp Y   &mt RGUI H   &mt RALT A   &mt RCTRL E   &kp I   &mt COMMA QMARK
-&trans  &kp Q   &kp X   &kp M   &kp C   &kp V     &trans  &kp K   &kp P   &mt DOT GT  &mt MINUS DQT  &mt FSLH LT   &trans
+&trans  &kp Q   &kp X   &kp M   &kp C   &kp V     &trans  &kp K   &kp P   &mt GT DOT &mt DQT MINUS &mt LT FSLH &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
 
